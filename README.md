@@ -1,6 +1,6 @@
 # 🎓 E-Learning Platform Purchase Analysis using MySQL
  
-> 📊 Module End Assignment focused on analyzing learner purchases, course performance, sales trends, and revenue generation using MySQL.
+> 📊 Module Capstone Project focused on analyzing learner purchases, course performance, sales trends, and revenue generation using MySQL.
  
 ---
  
