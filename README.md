@@ -125,7 +125,7 @@ This project demonstrates how MySQL can be used to manage and analyze E-Learning
  
 ### 📚 Project Type
  
-**Module End Assignment**
+**Module Capstone Project**
  
 ### 💻 Technology
  
